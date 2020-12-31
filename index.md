@@ -2,10 +2,10 @@
   <h2><b>Front-end Development Projects</b></h2>
 </div>
 
+&nbsp
                                                                        
 <div align="center"> 
-  <h1><b> To-do List App app</b></h1> 
- 
+  <h1><b><u>To-do List App app</u></b></h1> 
   <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
 </div>
 
