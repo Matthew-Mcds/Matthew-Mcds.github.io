@@ -4,7 +4,8 @@
 
                                                                        
 <div align="center"> 
-  <h1><b><u>To-Do List App</u></b></h1> 
+   
+  <h1><b><u><a href="https://www.w3schools.com/">To-Do List App</a></u></b></h1> 
   <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
 </div>
 
@@ -34,7 +35,7 @@
   
   <div align="center"> 
   <h1><b><u>Python Web Scraper</u></b></h1> 
-  <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
+  <p> A python program that uses an automation library to get data off a website and into a file.</p>
 </div>
 
   
