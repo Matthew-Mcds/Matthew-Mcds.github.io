@@ -11,7 +11,7 @@
 
   
  <div align="center">
-   ![To-do list img](https://www.workflowmax.com/hubfs/6-things-to-do-list.png)
+  <img src="https://www.workflowmax.com/hubfs/6-things-to-do-list.png" alt="To-do list App">
   </div>
   
   
