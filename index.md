@@ -5,6 +5,7 @@
                                                                        
 <div align="center"> 
   <h1><b> To-do List App app</b></h1> 
+  ![To-do list img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.workflowmax.com%2Fblog%2F6-things-that-arent-on-your-daily-to-do-list-but-should-be&psig=AOvVaw1d73hINwxxa0GO8x4wUd2g&ust=1609505122937000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC-kYWg-O0CFQAAAAAdAAAAABAD)
   <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
 </div>
 
