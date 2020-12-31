@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<div align="center"> # Front-end Development Projects </div>
 
 You can use the [editor on GitHub](https://github.com/Matthew-Mcds/Matthew-Mcds.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
