@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h2><b>Front-end Development Projects</b></h2>
+  <h1><b>Front-end Development Projects</b></h1>
 </div>
 
                                                                        
