@@ -5,12 +5,12 @@
                                                                        
 <div align="center"> 
   <h1><b> To-do List App app</b></h1> 
-  ![To-do list img](https://www.workflowmax.com/hubfs/6-things-to-do-list.png)
+ 
   <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
 </div>
 
   
-  
+   ![To-do list img](https://www.workflowmax.com/hubfs/6-things-to-do-list.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
