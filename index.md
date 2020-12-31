@@ -10,7 +10,11 @@
 </div>
 
   
+ <div align="center">
    ![To-do list img](https://www.workflowmax.com/hubfs/6-things-to-do-list.png)
+  </div>
+  
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
