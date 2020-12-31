@@ -2,7 +2,9 @@
   <h2><b>Front-end Development Projects</b></h2>
 </div>
 
-# To-Do List App                                              <div align="center"> <h2><b>React Weather app</b></h2>                            # Python Web Scraper
+# Project 1                                                                         
+<div align="center"> <h2><b> To-do List App app</b></h2>
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
