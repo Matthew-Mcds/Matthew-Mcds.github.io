@@ -2,10 +2,9 @@
   <h2><b>Front-end Development Projects</b></h2>
 </div>
 
-&nbsp
                                                                        
 <div align="center"> 
-  <h1><b><u>To-do List App app</u></b></h1> 
+  <h1><b><u>To-Do List App</u></b></h1> 
   <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
 </div>
 
@@ -15,34 +14,30 @@
   </div>
   
   
-### Markdown
+  
+  
+  
+  
+<div align="center"> 
+  <h1><b><u>To-Do List App</u></b></h1> 
+  <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
+ <div align="center">
+  <img src="https://www.workflowmax.com/hubfs/6-things-to-do-list.png" alt="To-do list App">
+  </div>
+  
+  
+  
+  
+  
+  <div align="center"> 
+  <h1><b><u>To-Do List App</u></b></h1> 
+  <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
+</div>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Matthew-Mcds/Matthew-Mcds.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
+ <div align="center">
+  <img src="https://www.workflowmax.com/hubfs/6-things-to-do-list.png" alt="To-do list App">
+  </div>
