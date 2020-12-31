@@ -1,11 +1,8 @@
 <div align="center"> 
-  <b> Front-end Development Projects </b>
+  <h2><b>Front-end Development Projects</b></h2>
 </div>
 
-You can use the [editor on GitHub](https://github.com/Matthew-Mcds/Matthew-Mcds.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+# To-Do List App                                              <div align="center"> <h2><b>React Weather app</b></h2>                            # Python Web Scraper
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
