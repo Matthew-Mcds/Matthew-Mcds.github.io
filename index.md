@@ -33,11 +33,11 @@
   
   
   <div align="center"> 
-  <h1><b><u>To-Do List App</u></b></h1> 
+  <h1><b><u>Python Web Scraper</u></b></h1> 
   <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
 </div>
 
   
  <div align="center">
-  <img src="https://www.workflowmax.com/hubfs/6-things-to-do-list.png" alt="To-do list App">
+  <img src="https://hbr.org/resources/images/article_assets/2017/06/jun17-15-hbr-nicholas-blechman-data.jpg" alt="Python Web Scraper">
   </div>
