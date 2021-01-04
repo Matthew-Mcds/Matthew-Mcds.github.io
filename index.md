@@ -34,7 +34,7 @@
   
   
   <div align="center"> 
-  <h1><b><u><a href="https://matthew-mcds.github.io/">Python Web Scraper</a></u></b></h1> 
+  <h1><b><u><a href="https://github.com/Matthew-Mcds/WebScrapingPython">Python Web Scraper</a></u></b></h1> 
   <p> A python program that uses an automation library to get data off a website and into a file.</p>
 </div>
 
