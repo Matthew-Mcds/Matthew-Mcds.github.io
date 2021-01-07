@@ -5,7 +5,7 @@
                                                                        
 <div align="center"> 
    
-  <h1><b><u><a href="https://matthew-mcds.github.io/">To-Do List App</a></u></b></h1> 
+  <h1><b><u><a href="https://github.com/Matthew-Mcds/To-Do-App">To-Do List App</a></u></b></h1> 
   <p> An App that tracks the daily tasks of the user made using HTML, CSS and JavaScript.</p>
 </div>
 
